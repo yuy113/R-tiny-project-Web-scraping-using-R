@@ -1,5 +1,5 @@
-# R-tiny-project-Web-scrapping-using-R
-Web scrapping using R
+# R-tiny-project-Web-scraping-using-R
+Web scraping using R
 
 Construct dependence network using the web data from IMDB top 100 movies.
 
